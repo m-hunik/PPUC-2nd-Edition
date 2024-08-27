@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-    cout << "Podaj imie osoby do ktorej chcesz wyslac list: "; //test123
+    cout << "Podaj imie osoby do ktorej chcesz wyslac list: ";
     string first_name {" "};
     cin >> first_name;
 
